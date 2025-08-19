@@ -9,7 +9,7 @@ public class HolaMundoSwing {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 // Crear un objeto JFrame, que representa la ventana principal.
-                JFrame ventana = new JFrame("Mi primera ventana Swing");
+                JFrame ventana = new JFrame("Ventana con Swing");
                 
                 // Configurar qué pasa cuando el usuario cierra la ventana.
                 ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
