@@ -3,7 +3,7 @@ package Ficheros;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class LeerFichero {
+public class CrearFichero {
 	public static void main(String[] args) {
 		String nombreArchivo = "C:\\\\Users\\\\usuario\\\\Desktop\\\\NuevoDocumentoTexto2.txt";
 		
