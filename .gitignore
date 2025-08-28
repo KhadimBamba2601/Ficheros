@@ -1,0 +1,21 @@
+# Archivos de compilación de Java
+*.class
+
+# Directorios de compilación de Maven o Gradle
+target/
+build/
+.gradle/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de la máquina virtual de Java y temporales
+*.jar
+*.war
+hs_err_pid*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
